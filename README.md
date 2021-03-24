@@ -130,6 +130,8 @@ Skills: Data-Science Pipeline, Data Visualization, Machine Learning, Unsupervise
 
 **Net5E:**	"The overall 5Essentials score is a summary indicator that describes a school’s performance on the 5Essentials as a group.  This score is calculated by adding up the school’s performance on each individual Essential. Being light green (strong) or dark green (very strong) on an Essential counts as +1; yellow (neutral) or missing counts as 0; and orange (weak) or dark red (very weak) counts as -1. ‘
 
+View my Google Data Studio Dashboard for this project [here](https://datastudio.google.com/u/0/reporting/301b0d75-cc1e-45b1-8fa4-119c70c5939a/page/JV0mB). 
+
 
 **Works Cited**
 
